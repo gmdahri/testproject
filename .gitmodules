@@ -1,0 +1,4 @@
+[submodule "sticky-task"]
+    path = sticky-task
+    url = <submodule-repo-url>
+
